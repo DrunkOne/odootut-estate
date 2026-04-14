@@ -1,7 +1,7 @@
 {
     'name': 'Estate',
-    'application': True
-    'author': 'Cock,
-    'license': 'MIT'
-    'installable': True,
+    'application': True,
+    'author': 'Cock'
+    #'license': 'MIT'
+    #'installable': True,
 }
